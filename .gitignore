@@ -1,0 +1,5 @@
+*.pyc
+save_w.txt
+/otdd/__pycache__/
+/otdd/pytorch/__pycache__/
+/__pycache__/
